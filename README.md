@@ -1,2 +1,2 @@
 # pset1
-Mario
+Mario, hello world and greedy.  First c coding assignment.
